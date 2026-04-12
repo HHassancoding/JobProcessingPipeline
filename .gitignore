@@ -1,0 +1,28 @@
+# Maven
+/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+
+# IntelliJ
+/.idea/
+/*.iml
+/out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.local
+*.keystore
+*.jks
+secrets.yaml
+
+# Logs
+*.log
+
+# Maven wrapper
+/mvnw
+/mvnw.cmd
